@@ -6,3 +6,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Finish EvilPortal ESP32
+- [ ] Complete markdown training
+- [ ] Understand markdown Syntax
